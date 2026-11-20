@@ -3,7 +3,7 @@ touhou_youmu_arle Type-C Long Skirt
 Original:
 https://www.deviantart.com/arlvit/art/Konpaku-Youmu-Ver-2-00-630232952
 
-2026.11.15
+2026.11.21
 init version
 
 More ported character models:
