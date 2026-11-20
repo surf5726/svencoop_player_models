@@ -6,5 +6,5 @@ https://www.deviantart.com/arlvit/art/Konpaku-Youmu-Ver-2-00-630232952
 2026.11.21
 init version
 
-More ported character models:
+More ported player models:
 https://github.com/surf5726/svencoop_player_models
